@@ -1,12 +1,20 @@
-# unicorn
+# Unicorn Companies Fact Sheet - Data Analysis with SQL and Tableau
 
-https://www.mavenanalytics.io/data-playground
+Unicorn (companies) is a term commonly used in venture capital to describe privately held startups whose valuation exceeds one billion.
 
-Unicorn companies dataset from Maven Analytics.
+## Data cleaning and preparation with MySQL
 
-I found this dataset from Maven Analytics and thought I would do an analysis with Tableau.
+Here’s the [MySQL code](https://github.com/yao-sisi/unicorn/blob/main/.gitignore)
 
-Upon examining the data I realized that it needed some cleaning. 
+## Data Visualization in Tableau
 
-This file contains my thought processes while cleaning and organizing the data for Tableau exploration and analysis. 
+Some of the questions that inspired the visualization were:
 
+- Which industries are getting the biggest piece of the pie (in terms of capital)?
+- Are there any trends over time?
+- Which countries are the leaders in “unicorn production”?
+- Who are the biggest investors?
+
+Here’s the [Tableau viz](https://public.tableau.com/views/UnicornCompaniesFactSheet/UnicornCompaniesFactSheet?:language=en-US&:display_count=n&:origin=viz_share_link).
+
+<img align="left" width="700" height="800" src="https://miro.medium.com/max/700/1*kb7vmJDvZ81go_oEL4e9lg.png">
